@@ -3,13 +3,14 @@
 # #Solomon Obure
 
 # #About
-Tasked to improve a social media client website. Provided orgianl html and css code.
-Deliverables included:
+Tasked to improve a social media service website for accesibility. Provided original html and css files.
+
+Deliverables include:
 
 (1) Implenting HTML 5 accesibility tag to orginal html 
 (2) HTML follows a concise logical structure 
 (3) All links are functional and images included alternative descriptions
-(4) HTML guidelines are folluched(sequential headings, descriptive title...etc)
+(4) HTML guidelines are followed (sequential headings, descriptive title...etc)
 
 # # Deliverables
 HTML File 
